@@ -1,6 +1,6 @@
 {
-    "name": "first_try",
-    "short_name": "first_try",
+    "name": "hm_shop",
+    "short_name": "hm_shop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
